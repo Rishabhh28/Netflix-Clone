@@ -1,1 +1,1 @@
-A simple rough designed clone fon Netflix, this is only the working design made by HTMl and CSS. One can access this clone by playing the index.html file with all required resources like images and the css file.
+A simple rough designed clone of Netflix, this is only the working design made by HTMl and CSS. One can access this clone by running the index.html file with all required resources like images and the css file.
